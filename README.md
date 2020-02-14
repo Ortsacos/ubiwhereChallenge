@@ -1,6 +1,6 @@
 # ubiwhereChallenge
 
-Based on the previous requirements, develop a Go application that
+Go application that
 implements the following features:
 	- Collect CPU, RAM each second from the operating system and
 store it in a local database;
